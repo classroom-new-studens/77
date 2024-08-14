@@ -1,9 +1,9 @@
 {
 "TOTAL_MEMORY": 536870912,
-"dataUrl": "TruckLegends_V7_64bit.data.unityweb",
-"asmCodeUrl": "TruckLegends_V7_64bit.asm.code.unityweb",
-"asmMemoryUrl": "TruckLegends_V7_64bit.asm.memory.unityweb",
-"asmFrameworkUrl": "TruckLegends_V7_64bit.asm.framework.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/classroom-new-studens/77@main/Build/TruckLegends_V7_64bit.data.unityweb",
+"asmCodeUrl": "https://cdn.jsdelivr.net/gh/classroom-new-studens/77@main/Build/TruckLegends_V7_64bit.asm.code.unityweb",
+"asmMemoryUrl": "https://cdn.jsdelivr.net/gh/classroom-new-studens/77@main/Build/TruckLegends_V7_64bit.asm.memory.unityweb",
+"asmFrameworkUrl": "https://cdn.jsdelivr.net/gh/classroom-new-studens/77@main/Build/TruckLegends_V7_64bit.asm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
