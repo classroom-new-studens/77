@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "TruckLegends_V7_64bit.data.unityweb",
+"asmCodeUrl": "TruckLegends_V7_64bit.asm.code.unityweb",
+"asmMemoryUrl": "TruckLegends_V7_64bit.asm.memory.unityweb",
+"asmFrameworkUrl": "TruckLegends_V7_64bit.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
