@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+<ModulePrefs title="Google.com" />
+<Content type="html"><![CDATA[
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unblocked Games Google</title>
+    <meta name="viewport" content="width=device-width">
+    <link href="https://cdn.jsdelivr.net/gh/classroom-new-studens/77@main/y8-studio/unity/config/TemplateData56/style.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/classroom-new-studens/77@main/y8-studio/unity/config/shared/style.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/gh/classroom-new-studens/77@main/y8-studio/unity/config/TemplateData56/UnityProgress.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/classroom-new-studens/77@main/Build/UnityLoader.js"></script>
+  <script>
+      var gameInstance = UnityLoader.instantiate("gameContainer", "https://cdn.jsdelivr.net/gh/classroom-new-studens/77@main/Build/TruckLegends_V7_64bit.json", {onProgress: UnityProgress,Module:{onRuntimeInitialized: function() {UnityProgress(gameInstance, "complete")}}});
+    </script>
+</head>
+  <body>
+    <div id="container" class="container webgl-content">
+      <div id="gameContainer" style="width: 800px; height: 600px"></div>
+      <div class="footer">
+        <div class="unity disable"></div>
+        <div class="webgl enable"></div>
+        <h1 class="game-name">Unblocked Games Google</h1>
+        <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)">Click to fullscreen</div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+]]></Content>
+</Module>
